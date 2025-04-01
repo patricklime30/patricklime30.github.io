@@ -41,8 +41,9 @@ I also run a YouTube channel where I share coding tutorials, tips, and best prac
 
 Feel free to reach out if you have any questions, collaboration opportunities, or if you would like to learn more about my work!
 
-- Email: [your-email@example.com](mailto:patrickliem30@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](#)
-- GitHub: [Your GitHub Profile](https://github.com/patricklime30)
+- Email: [patrickliem30@gmail.com](mailto:patrickliem30@gmail.com)
+- LinkedIn: [Patrick Liem](#)
+- GitHub: [patricklime30](https://github.com/patricklime30)
+
 
 Thank you for visiting my portfolio!
