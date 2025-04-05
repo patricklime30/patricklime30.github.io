@@ -17,17 +17,17 @@ As a web developer, I focus on creating efficient and scalable web applications.
 
 Here are some of the projects I have worked on:
 
-1. **Recipe System (College Project)**
+1. **Recipe System**
    - A web application built using pure Laravel.
    - Features user authentication, recipe management, and a user-friendly interface.
    
-2. **Online Psychology System (Internship Project)**
+2. **Online Psychology System**
    - A full-stack application developed during my internship, combining React for the frontend and Laravel for the backend.
    - Designed to handle psychological assessments and provide users with test results.
    - Offers personalized job recommendations based on the assessment results.
    - Collaborated closely with students from the Faculty of Psychology to ensure the system meets user needs and academic standards.
    
-3. **Assessment Center System (Freelance Project)**
+3. **Assessment Center System**
    - Developed for a client using Filament technology.
    - Streamlines the assessment process with features for user management, reporting, and video conference.
 
