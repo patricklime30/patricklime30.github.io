@@ -1,10 +1,10 @@
 # My Portfolio
 
-Welcome to my portfolio website! I am a passionate web developer, freelancer, and coding tutor specializing in the Laravel framework. I graduated from Universitas Surabaya (Ubaya) in 2023 and have dedicated the past year to enhancing my skills through online courses and practical experience.
+Welcome to my portfolio website! I am a passionate web developer, and freelancer, specializing in the Laravel framework. I graduated from Universitas Surabaya (Ubaya) in 2023 and have dedicated the past year to enhancing my skills through online courses and practical experience.
 
 ## About Me
 
-As a web developer, I focus on creating efficient and scalable web applications. My journey began with a strong foundation in Laravel, and I have since expanded my skill set to include full-stack development using React. I also enjoy sharing my knowledge with others, which led me to create a YouTube channel dedicated to coding tutorials.
+As a web developer, I specialize in creating efficient and scalable web applications. My journey began with a strong foundation in Laravel, and I have expanded my skills through freelancing.
 
 ## Skills
 
