@@ -9,9 +9,9 @@ As a web developer, I focus on creating efficient and scalable web applications.
 ## Skills
 
 - **Languages:** PHP, JavaScript, HTML, CSS
-- **Frameworks:** Laravel, React
+- **Frameworks:** Laravel
 - **Tools & Technologies:** Filament, MySQL, Git, GitHub
-- **Other:** Web Development, Freelancing, Coding Tutoring
+- **Other:** Web Development, Freelancing
 
 ## Projects
 
@@ -22,7 +22,7 @@ Here are some of the projects I have worked on:
    - Features user authentication, recipe management, and a user-friendly interface.
    
 2. **Online Psychology System**
-   - A full-stack application developed during my internship, combining React for the frontend and Laravel for the backend.
+   - An application developed during my internship, using Laravel framework.
    - Designed to handle psychological assessments and provide users with test results.
    - Offers personalized job recommendations based on the assessment results.
    - Collaborated closely with students from the Faculty of Psychology to ensure the system meets user needs and academic standards.
@@ -30,12 +30,6 @@ Here are some of the projects I have worked on:
 3. **Assessment Center System**
    - Developed for a client using Filament technology.
    - Streamlines the assessment process with features for user management, reporting, and video conference.
-
-## YouTube Channel
-
-I also run a YouTube channel where I share coding tutorials, tips, and best practices, particularly focused on Laravel and web development. Check it out for valuable resources and insights!
-
-- [Visit My YouTube Channel]
 
 ## Contact
 
